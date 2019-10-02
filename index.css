@@ -1,1 +1,10 @@
+h1 { color : blue ;
+  background-color : pink ; }
 
+h2 { color : red ;
+  background-color : silver ;}
+
+p { margin : 30 30 30 30 ;
+    background-color : lime ; }
+
+ul { border : 5 solid black ; } 
